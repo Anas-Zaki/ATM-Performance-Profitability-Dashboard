@@ -54,7 +54,7 @@ Shows key metrics such as revenue, uptime, transactions, and cost distribution a
 <img width="1031" height="579" alt="image" src="https://github.com/user-attachments/assets/5488e528-16d9-4acb-9427-c536fbdd9bc8" />
 
 ### 2️⃣ Detailed Insights  
-Provides state-level performance, financial vs non-financial transactions, and detailed cost breakdown.  
+Provides state-level performance detailed cost breakdown.  
 
 <img width="1030" height="582" alt="image" src="https://github.com/user-attachments/assets/084a92ff-4f87-4495-8202-935f89acac27" />
 
