@@ -10,7 +10,7 @@ This project uses **Power BI** for interactive dashboards and **Pandas, Matplotl
 **Files Provided:**
 
 - `data/Row_Data.xlsx`          – Original raw dataset  
-- `data/ATM_data_cleaned.csv`   – Preprocessed dataset ready for analysis
+- `data/cleaned_data.csv`   – Preprocessed dataset ready for analysis
 
 
 ## 🗂️ Key Dataset Columns & Descriptions
