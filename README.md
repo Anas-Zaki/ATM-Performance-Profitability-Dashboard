@@ -35,13 +35,13 @@ This project uses **Power BI** for interactive dashboards and **Pandas, Matplotl
 ```
 ATM_Performance_Dashboard/
 │── 📄 README.md                        # Project documentation
-│── 📂 data/                            # Contains raw and processed datasets
-│   │── 📄 Row_Data.xlsx               
-│   │── 📄 cleaned_data.csv            
-│── 📂 notebooks/                       # Jupyter notebooks for analysis
-│   │── 📄 EDA.ipynb                     # Exploratory Data Analysis notebook
-│   │── 📄 Visualization.ipynb             # SQL queries for extracting insights
-│   │── 📄 RetailPulse_Dashboard.pbix    # Power Bi for final dashboard
+│── 📂 data/                            # Raw and cleaned datasets
+│   │── 📄 Row_Data.xlsx                # Original dataset
+│   │── 📄 cleaned_data.csv             # Cleaned dataset for analysis and dashboard
+│── 📂 notebooks/                       # Analysis and visualization files
+│   │── 📄 Cleaning_Process.ipynb       # Data cleaning steps
+│   │── 📄 Visualization.ipynb          # EDA and visualizations
+│   │── 📄 ATM_Transaction.pbix         # Power BI dashboard
 ```
 
 
